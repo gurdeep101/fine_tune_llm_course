@@ -1,0 +1,187 @@
+filename,description
+../data/esi/test/pg_51_img_0.png,"The image is a chart. Here is the detailed information extracted from the chart:
+
+- The chart shows the percentage change over different fiscal years (FY) for three sectors: Agriculture and allied activities, Industry, and Services.
+- The fiscal years represented are FY19 (3rd RE), FY20 (2nd RE), FY21 (1st RE), FY22 (PE), and FY23 (1st AE).
+- The y-axis represents the percentage change, ranging from -12% to 9%.
+- The three sectors are represented by different line styles:
+  - Agriculture and allied activities: Solid green line
+  - Industry: Dashed orange line
+  - Services: Dotted blue line
+
+Percentage changes for each sector over the fiscal years:
+- **Agriculture and allied activities:**
+  - FY19 (3rd RE): Approximately 2.5%
+  - FY20 (2nd RE): Approximately 4%
+  - FY21 (1st RE): Approximately 3.5%
+  - FY22 (PE): Approximately 3%
+  - FY23 (1st AE): Approximately 3.5%
+
+- **Industry:**
+  - FY19 (3rd RE): Approximately 6%
+  - FY20 (2nd RE): Approximately -1%
+  - FY21 (1st RE): Approximately -8%
+  - FY22 (PE): Approximately 11%
+  - FY23 (1st AE): Approximately 4%
+
+- **Services:**
+  - FY19 (3rd RE): Approximately 7.5%
+  - FY20 (2nd RE): Approximately 6%
+  - FY21 (1st RE): Approximately -8%
+  - FY22 (PE): Approximately 8%
+  - FY23 (1st AE): Approximately 6.5%"
+../data/esi/test/pg_51_img_1.png,"The image is a chart. Here is the detailed information extracted from the chart:
+
+### Categories and Data Points:
+
+1. **PFCE (Per cent of GDP)**
+   - FY19 (3rd RE): ~59%
+   - FY20 (2nd RE): ~60%
+   - FY21 (1st RE): ~58%
+   - FY22 (PE): ~60%
+   - FY23 (1st AE): ~60%
+
+2. **GFCF (Per cent of GDP)**
+   - FY19 (3rd RE): ~32%
+   - FY20 (2nd RE): ~30%
+   - FY21 (1st RE): ~29%
+   - FY22 (PE): ~31%
+   - FY23 (1st AE): ~31%
+
+3. **Exports of goods and services (Per cent of GDP)**
+   - FY19 (3rd RE): ~20%
+   - FY20 (2nd RE): ~19%
+   - FY21 (1st RE): ~21%
+   - FY22 (PE): ~22%
+   - FY23 (1st AE): ~22%
+
+4. **Imports of goods and services (Per cent of GDP)**
+   - FY19 (3rd RE): ~24%
+   - FY20 (2nd RE): ~21%
+   - FY21 (1st RE): ~22%
+   - FY22 (PE): ~24%
+   - FY23 (1st AE): ~25%
+
+### Legend:
+- **FY19 (3rd RE)**: Yellow
+- **FY20 (2nd RE)**: Orange
+- **FY21 (1st RE)**: Purple
+- **FY22 (PE)**: Green
+- **FY23 (1st AE)**: Blue"
+../data/esi/test/pg_51_img_3.png,"The image is a chart. Here is the extracted information from the chart:
+
+Title: Depreciation (+)/Appreciation (-) against USD between Apr-Dec 2022
+
+- South Africa: 16.4%
+- Brazil: 11.5%
+- Australia: 10.0%
+- Indonesia: 8.8%
+- India: 8.8%
+- China: 8.8%
+- UK: 8.6%
+- Japan: 7.7%
+- Euro: 4.9%
+- South Korea: 3.1%
+- Mexico: -2.0%
+
+The chart uses bars to represent the percentage change in currency value against the USD for various countries between April and December 2022. The percentages are color-coded, with positive values in red and the negative value in green."
+../data/esi/test/pg_51_img_2.png,"The image is a chart. Here is the detailed information extracted from the chart:
+
+- The chart shows two lines representing different indices over time:
+  - A solid blue line labeled ""CPI"" (Consumer Price Index).
+  - A dashed orange line labeled ""CPI-Food"" (Consumer Price Index for Food).
+
+- The y-axis represents the percentage change year-over-year (YoY) and is labeled ""Per cent (YoY)"".
+  - The y-axis values range from 0% to 8%.
+
+- The x-axis represents time, with specific months and years marked:
+  - Feb-21
+  - Apr-21
+  - Jun-21
+  - Aug-21
+  - Oct-21
+  - Dec-21
+  - Feb-22
+  - Apr-22
+  - Jun-22
+  - Aug-22
+  - Oct-22
+  - Dec-22
+
+- The blue line (CPI) shows fluctuations over the time period, with notable peaks and troughs:
+  - Peaks around Apr-21, Oct-21, and Jun-22.
+  - Troughs around Jun-21, Dec-21, and Aug-22.
+
+- The orange dashed line (CPI-Food) also shows fluctuations over the time period, with notable peaks and troughs:
+  - Peaks around Jun-21, Dec-21, and Aug-22.
+  - Troughs around Apr-21, Oct-21, and Jun-22.
+
+- Both lines show a general trend of fluctuation with some correlation in their peaks and troughs, but with different magnitudes and timings."
+../data/esi/test/pg_49_img_2.png,"The image is a table. Here is the table in markdown format:
+
+| Country       | Debt/GDP (Avg %) | Household | Pvt Non-Financial | Government | Total | Household | Pvt Non-Financial | Government |
+|---------------|------------------|-----------|-------------------|------------|-------|-----------|-------------------|------------|
+|               |                  |           |                   |            |       | Change since Q2 2008 |           |                   |            |
+| Global Avg    | 62               | 160       | 81                | 248        | 43    | 37        | 33                |
+| Australia     | 124              | 161       | 67                | 352        | 17    | 45        | 290               |
+| Brazil        | 34               | 118       | 74                | 226        | 7     | 69        | 150               |
+| Mainland China| 61               | 163       | 67                | 291        | 47    | 47        | 244               |
+| France        | 67               | 167       | 113               | 347        | 6     | 40        | 301               |
+| Germany       | 60               | 111       | 74                | 245        | 4     | 7         | 234               |
+| India         | 38               | 82        | 170               | 17         | -17   | 16        | -7                |
+| Italy         | 41               | 111       | 145               | 297        | 1     | 27        | 269               |
+| Japan         | 66               | 114       | 259               | 439        | 16    | 50        | 373               |
+| South Korea   | 106              | 115       | 47                | 268        | 38    | 47        | 183               |
+| Mexico        | 16               | 38        | 38                | 91         | -12   | 13        | 38                |
+| South Africa  | 35               | 41        | 38                | 114        | 3     | 12        | 99                |
+
+**Table L2: Core Debt of most major economies except India is higher as compared to 2008**  
+**Core debt of the non-financial sector (Q2 2022, % of GDP)**"
+../data/esi/test/pg_49_img_0.png,"The image is a chart.
+
+### Extracted Information:
+
+- **Y-Axis (Vertical Axis):** Labeled as ""Per cent"" with a range from -4 to 14.
+- **X-Axis (Horizontal Axis):** Labeled with dates ranging from Apr-18 to Aug-22.
+- **Data Trend:** The chart shows a fluctuating line representing percentage values over time.
+  - The line starts around 2% in Apr-18.
+  - There are several peaks and troughs throughout the period.
+  - Notable peaks occur around Dec-20 and Aug-21, reaching values above 12%.
+  - Notable troughs occur around Apr-20 and Aug-22, reaching values below 0%.
+  - The line ends around 0% in Aug-22."
+../data/esi/test/pg_49_img_1.png,"The image is a chart.
+
+### Extracted Information:
+
+- **Y-Axis (Vertical Axis):** 
+  - Label: ""Per cent""
+  - Scale: Ranges from -10 to 40, with increments of 10.
+
+- **X-Axis (Horizontal Axis):**
+  - Labels: 
+    - Apr-18
+    - Aug-18
+    - Dec-18
+    - Apr-19
+    - Aug-19
+    - Dec-19
+    - Apr-20
+    - Aug-20
+    - Dec-20
+    - Apr-21
+    - Aug-21
+    - Dec-21
+    - Apr-22
+    - Aug-22
+    - Dec-22
+
+- **Data Line:**
+  - The green line represents the data trend over time.
+  - The line starts around 10% in Apr-18.
+  - It remains relatively stable until Dec-19.
+  - There is a significant drop around Apr-20.
+  - A sharp increase is observed around Aug-20, peaking above 30%.
+  - The line then shows a steep decline around Dec-20.
+  - Another peak is observed around Aug-21, reaching above 20%.
+  - The line declines again, reaching below 0% around Apr-22.
+  - It stabilizes around 0% towards Dec-22."
